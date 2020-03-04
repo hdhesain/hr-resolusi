@@ -1,12 +1,16 @@
 HR-RESOLUSI
 - Konsisten belajar
+  ?fork1
 - coba1
   ? coba1
   ? coba2
+  ? fork1
   ? coba1
+  ? fork1
 - Konsisten Sholat
 - Konsisten Riris
 - Membuat Design Logo
 - coba2
 - Membuat company
+- fork1
 - coba1
